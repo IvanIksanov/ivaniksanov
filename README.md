@@ -1,3 +1,3 @@
-![Header](https://github.com/IvanIksanov/ivaniksanov/blob/main/IMG_153.PNG)
+![Header]()
 ### Иван Иксанов 👋
 hh
