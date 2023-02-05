@@ -1,7 +1,4 @@
 ![Header](https://github.com/IvanIksanov/ivaniksanov/blob/main/IMG_1538.PNG)
-### Ivan Iksanov
-### Direct me
-
 <a rel="nofollow noopener noreferrer" href="https://www.instagram.com/eeevanofff/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Instagram%20-%20Negative-3.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://t.me/evanovnew" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Instagram%20-%20Negative-3.png" width="40" height="40" />
 
 ### Напиши на почту, а лучше в тг 💩 ivaniksanov2000@gmail.com
