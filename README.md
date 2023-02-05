@@ -9,3 +9,4 @@
 ### [ПОРТФОЛИО 👾](https://drive.google.com/drive/folders/1tzLY46qKzsIftwOoA00wwULfRxo6GY-D?usp=sharing)
 
 ### НИЖЕ БУДУТ ССЫЛКИ И РЕСУРСЫ О ТЕСТИРОВАНИИ
+<a rel="nofollow noopener noreferrer" href="https://t.me/evanovnew" target="_blank"><img rel="nofollow" src="https://i.ibb.co/tDPZfqM/IMG-5878.png" style="opacity: 1;position:fixed;left:380px;top:0px ;width:195px;height:65px;border-square: 100px 100px 100px 100px ;" target="_blank"><br></a>
