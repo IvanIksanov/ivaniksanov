@@ -13,4 +13,4 @@
 ![Overview][1]
 [1]: file:///Users/eeevanofff/Desktop/git/Untitled/ivaniksanov/Instagram%20-%20Negative.svg  "Overview"
 
-<img src="https://raw.github.com/specialorange/FDXCM/master/doc/controllers_brief.svg">
+<img src="https://Users/eeevanofff/Desktop/git/Untitled/ivaniksanov/Instagram%20-%20Negative.svg">
