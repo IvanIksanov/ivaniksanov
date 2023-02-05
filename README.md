@@ -1,5 +1,5 @@
 ![Header](https://github.com/IvanIksanov/ivaniksanov/blob/main/IMG_1538.PNG)
-<a rel="nofollow noopener noreferrer" href="https://instagram.com/eeevanofff" target="_blank"><img rel="nofollow" src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Instagram%20-%20Negative-3.png" style="opacity:;width:40px;height:40px;border-square: 100px 100px 100px 100px ;" target="_blank"><br></a> 
+<a rel="nofollow noopener noreferrer" href="https://instagram.com/eeevanofff" target="_blank"><img rel="nofollow" src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Instagram%20-%20Negative-3.png" style="opacity:position:fixed;left:0px;top:300px ;width:40px;height:40px;border-square: 100px 100px 100px 100px ;" target="_blank"><br></a>
 ### Иван Иксанов 👋
 <a rel="nofollow noopener noreferrer" href="https://t.me/evanovnew" target="_blank"><img rel="nofollow" src="https://i.ibb.co/tDPZfqM/IMG-5878.png" style="opacity:;width:195px;height:65px;border-square: 100px 100px 100px 100px ;" target="_blank"><br></a> 
 
@@ -10,4 +10,4 @@
 
 ### НИЖЕ БУДУТ ССЫЛКИ И РЕСУРСЫ О ТЕСТИРОВАНИИ
 
-https://github.com/IvanIksanov/ivaniksanov/blob/main/Instagram%20-%20Negative-3.png
+![https://github.com/IvanIksanov/ivaniksanov/blob/main/Instagram%20-%20Negative-3.png](https://instagram.com/eeevanofff)
