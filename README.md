@@ -10,7 +10,4 @@
 ### НИЖЕ БУДУТ ССЫЛКИ И РЕСУРСЫ О ТЕСТИРОВАНИИ
 
 
-![Overview][1]
-[1]: file:///Users/eeevanofff/Desktop/git/Untitled/ivaniksanov/Instagram%20-%20Negative.svg  "Overview"
-
-<img src="https://Users/eeevanofff/Desktop/git/Untitled/ivaniksanov/Instagram%20-%20Negative.svg">
+file:///Users/eeevanofff/Desktop/git/Untitled/ivaniksanov/Instagram%20-%20Negative.svg
