@@ -1,7 +1,7 @@
 ![Header](https://github.com/IvanIksanov/ivaniksanov/blob/main/IMG_1538.PNG)
 ## Connect me
 <a rel="nofollow noopener noreferrer" href="https://www.instagram.com/eeevanofff/" target="_blank"><img src="https://i.ibb.co/njJ4x3S/Instagram-Negative-3.png" width="40" height="40" /> 
-  <a rel="nofollow noopener noreferrer" href="https://t.me/evanovnew" target="_blank"><img src="https://i.ibb.co/F6jHYT3/Telegram-Negative.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="mailto:ivaniksanov2000@gmail.com.com" target="_blank"><img src="https://i.ibb.co/3yyFvYt/Gmail.png" width="40" height="40" /> 
+  <a rel="nofollow noopener noreferrer" href="https://t.me/evanovnew" target="_blank"><img src="https://i.ibb.co/F6jHYT3/Telegram-Negative.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="mailto:ivaniksanov2000@gmail.com.com" target="_blank"><img src="https://i.ibb.co/MnSPphJ/Vector.png" width="40" height="40" /> 
 
 ## CV
 <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://i.ibb.co/xLRbLjp/Figma-Negative.png" width="40" height="40" /> 
