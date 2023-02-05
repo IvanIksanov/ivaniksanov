@@ -11,9 +11,21 @@
  
  
 ## Резюме
-[Открой мое резюме на Docs 😈](https://docs.google.com/document/d/1HRhtAmWjqkDpU7Tl_bUSwl8JZkZJrTy3cRrkINeLbnQ/edit?usp=sharing)
+  
+[Резюме на Google Docs](https://docs.google.com/document/d/1HRhtAmWjqkDpU7Tl_bUSwl8JZkZJrTy3cRrkINeLbnQ/edit?usp=sharing)
+
+[Резюме на Linkedin](https://www.linkedin.com/in/ivan-iksanov-765794229)
+
+[Резюме на GitHub](hdhhddh)
+  
 ## Портфолио
-[ПОРТФОЛИО 👾](https://drive.google.com/drive/folders/1tzLY46qKzsIftwOoA00wwULfRxo6GY-D?usp=sharing)
+[Портфолио на Google Drive](https://drive.google.com/drive/folders/1tzLY46qKzsIftwOoA00wwULfRxo6GY-D?usp=sharing)
+
+[Чек-листы]
+
+[Тест-кейсы]
+
+[Баг-репорты]
 
 ## OS testing experiens 
 ## Bag tracking
