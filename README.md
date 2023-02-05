@@ -7,8 +7,8 @@
 
 ## Tools
 <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://i.ibb.co/xLRbLjp/Figma-Negative.png" width="40" height="40" /> 
+<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Github%20-%20Negative.png" width="40" height="40" /> 
  
-## Language and tools
  
 ### [Открой мое резюме на Docs 😈](https://docs.google.com/document/d/1HRhtAmWjqkDpU7Tl_bUSwl8JZkZJrTy3cRrkINeLbnQ/edit?usp=sharing)
 ### [ПОРТФОЛИО 👾](https://drive.google.com/drive/folders/1tzLY46qKzsIftwOoA00wwULfRxo6GY-D?usp=sharing)
