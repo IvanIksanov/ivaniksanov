@@ -13,6 +13,11 @@
 <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Frame-2.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Frame-4.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Jira.png" width="40" height="40" />
 
 
+## OS testing experiens
+Mob Android IOS
+Web Windows MacOS
+
+
  
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
@@ -50,6 +55,6 @@
 
 [Баг-репорты]
 
-## OS testing experiens 
+
 ## Defect Tracking
 ## 
