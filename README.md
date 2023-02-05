@@ -9,3 +9,6 @@
 
 ### НИЖЕ БУДУТ ССЫЛКИ И РЕСУРСЫ О ТЕСТИРОВАНИИ
 
+<object type="image/svg+xml" data="file:///Users/eeevanofff/Downloads/Instagram%20-%20Negative.svg" width="200" height="200" >
+   Your browser does not support SVG
+</object>
