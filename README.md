@@ -7,7 +7,10 @@
 
 ## Tools
 <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://i.ibb.co/xLRbLjp/Figma-Negative.png" width="40" height="40" /> 
-<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Github%20-%20Negative.png" width="40" height="40" /> 
+<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Github%20-%20Negative.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Github%20-%20Negative.png" width="40" height="40" />
+  
+  
+  https://commons.wikimedia.org/wiki/File:YouTrack_Icon.svg
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
