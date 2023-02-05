@@ -28,5 +28,5 @@
 [Баг-репорты]
 
 ## OS testing experiens 
-## Bag tracking
+## Defect Tracking
 ## 
