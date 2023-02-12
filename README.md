@@ -14,8 +14,7 @@
 
 
 ## OS testing experiens
-Mob Android IOS
-Web Windows MacOS
+<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Apple%20-%20Negative.png" width="40" height="40" />
 
 
  
