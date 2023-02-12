@@ -14,10 +14,9 @@
 
 
 ## OS testing experiens
-<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Apple%20-%20Negative.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Android%20-%20Negative.png" width="40" height="40" />
+<a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Apple%20-%20Negative.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Android%20-%20Negative.png" width="40" height="40" /> <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/ivan-iksanov-765794229/" target="_blank"><img src="https://github.com/IvanIksanov/ivaniksanov/blob/main/Group.png" width="40" height="40" />
 
 
- 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 ![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
