@@ -23,13 +23,6 @@
   
 [Резюме на Google Docs](https://docs.google.com/document/d/1HRhtAmWjqkDpU7Tl_bUSwl8JZkZJrTy3cRrkINeLbnQ/edit?usp=sharing)
 
-[Резюме на Linkedin](https://www.linkedin.com/in/ivan-iksanov-765794229)
-
-[Резюме на GitHub](hdhhddh)
-  
-## Портфолио
-[Портфолио на Google Drive](https://drive.google.com/drive/folders/1tzLY46qKzsIftwOoA00wwULfRxo6GY-D?usp=sharing)
-
 [Чек-листы]
 
 [Тест-кейсы]
