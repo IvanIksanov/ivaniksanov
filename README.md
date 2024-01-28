@@ -22,13 +22,3 @@
 ## Резюме
   
 [Резюме на Google Docs](https://docs.google.com/document/d/1HRhtAmWjqkDpU7Tl_bUSwl8JZkZJrTy3cRrkINeLbnQ/edit?usp=sharing)
-
-[Чек-листы]
-
-[Тест-кейсы]
-
-[Баг-репорты]
-
-
-## Defect Tracking
-## 
